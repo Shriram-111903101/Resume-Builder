@@ -1,0 +1,58 @@
+#login{
+  background-image: url('https://images.unsplash.com/photo-1540800458874-73e6a5eed8ac?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80');
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+ }
+
+ .form-group{
+  align-items: center;
+  width: auto;
+  margin: auto;
+  text-align: center;
+ }
+
+ #u{
+  align-items: center;
+  width: 300px;
+  margin: auto;
+  text-align: center;
+ }
+
+  #p{
+  align-items: center;
+  width: 300px;
+  margin: auto;
+  text-align: center;
+ }
+
+  .btn{
+  align-items: center;
+  width: 100px;
+  margin-left: 250px;
+  text-align: center;
+
+ }
+
+ .top-heading{
+  font-size: 100px; 
+  padding:30px ;
+  margin-top: 20px;
+  font-weight: bold;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color:#05595B; 
+  text-align: center;
+   }
+
+ .container{
+  align-items: center;
+  margin-top: 50 px;
+  padding-top: 20px;
+ }
+
+ #s{
+  margin-top: 300px;
+  margin-left: 300px;
+  padding-left: 50px;
+ }
+
