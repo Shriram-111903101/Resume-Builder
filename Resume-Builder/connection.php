@@ -8,6 +8,7 @@ if (!$connect) {
   die("Connection failed: " . mysqli_connect_error());
 }
 //echo "HI";
+//echo
 //$query = "INSERT INTO student VALUES('Sarvesh','Fegade','sar','Sarvesh@gmail.com','Maharashtra','India')";
 //echo $query;
 //$result = mysqli_query($connect, $query);
